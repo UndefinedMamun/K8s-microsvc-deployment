@@ -1,4 +1,4 @@
-name: build-frontend-image
+name: build-react-frontend-image
 on: [push, pull_request]
 # on:
 #   workflow_dispatch:

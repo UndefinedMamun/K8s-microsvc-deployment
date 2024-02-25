@@ -1,5 +1,5 @@
 REGISTRY_NAME:= undefinedmamun
-SERVICE_NAME:= frontend
+SERVICE_NAME:= react-frontend
 IMAGE_NAME:= ${REGISTRY_NAME}/${SERVICE_NAME}
 TAG:= latest
 
